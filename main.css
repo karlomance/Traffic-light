@@ -1,0 +1,31 @@
+
+input {
+    margin: 20px;
+    padding: 5px;
+}
+#button {
+    background-color: rgb(145, 202, 255);
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 70px;
+    height: 30px;
+}
+#obrisi {
+    background-color: rgb(145, 202, 255);
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 70px;
+    height: 30px;
+}
+#rez > h5 {
+  color: blue;
+}
+#zakon {
+  color: red;
+}
+#upozorenje {
+  color: orange;
+}
+#okej {
+  color: green;
+}
