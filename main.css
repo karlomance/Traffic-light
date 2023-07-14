@@ -3,29 +3,29 @@ input {
     margin: 20px;
     padding: 5px;
 }
-#button {
+#button-enter {
     background-color: rgb(145, 202, 255);
     border: 1px solid black;
     border-radius: 5px;
     width: 70px;
     height: 30px;
 }
-#obrisi {
+#button-delete {
     background-color: rgb(145, 202, 255);
     border: 1px solid black;
     border-radius: 5px;
     width: 70px;
     height: 30px;
 }
-#rez > h5 {
+#result > h5 {
   color: blue;
 }
-#zakon {
+#law {
   color: red;
 }
-#upozorenje {
+#warning {
   color: orange;
 }
-#okej {
+#ok {
   color: green;
 }
